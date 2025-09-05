@@ -1,0 +1,31 @@
+    body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
+        }
+        h1 {
+            text-align: left;
+            color: rgb(0, 0, 0);
+        }
+        
+nav a {
+  color: rgb(0, 0, 0);
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+h1 {
+  color: #b22222;
+}
+
+.restaurant img {
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+footer {
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: #555;
+}
+
